@@ -25,7 +25,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day       |    Axil     |    Daniel   |    Laura    |    Moamin   |        Senait       |        Tatsiana     |
 | --------- | :---------: | :---------: | :---------: | :---------: | :-----------------: | :-----------------: |
-| Monday    | after 13:00 |   all day   | after 10:00 |   all day   | between 12:00-14:00 | between 12:00-14:00 |
+| Monday    | after 13:00 |   all day   | after 10:00 |   only mornings   | between 12:00-14:00 | between 12:00-14:00 |
 | Tuesday   |   all day   |   all day   | after 14:00 |   all day   |     after 18:00     |     after 18:00     |
 | Wednesday | after 13:00 |after 16:30  | after 10:00 | after 13:00 |     after 18:00     |     after 18:00     |
 | Thursday  |   all day   |   all day   |    busy     |   all day   | between 12:00-14:00 | between 12:00-14:00 |
@@ -33,8 +33,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### How many hours everyone has per day:
 
-- Daniel: _5h_;
-- name: _6h_;
+- Daniel: _3h_;
+- Momain: _6h_;
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
