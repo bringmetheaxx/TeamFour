@@ -23,21 +23,23 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       |    name     |    name     |    name     |    name     |        name         |
-| --------- | :---------: | :---------: | :---------: | :---------: | :-----------------: |
-| Monday    | after 13:00 | after 12:00 | after 10:00 |   all day   | between 12:00-14:00 |
-| Tuesday   |   all day   | after 15:00 | after 14:00 |   all day   |     after 18:00     |
-| Wednesday | after 13:00 | after 12:00 | after 10:00 | after 13:00 |     after 18:00     |
-| Thursday  |   all day   | after 12:00 |    busy     |   all day   | between 12:00-14:00 |
-| Friday    |   all day   |   all day   |    busy     |   all day   |     after 18:00     |
+<<<<<<< HEAD
+| Day       |    Axil             |    Daniel   |    Laura    |    Moamin         |        Senait       |        Tatsiana     |
+| --------- | :---------:         | :---------: | :---------: | :---------:       | :-----------------: | :-----------------: |
+| Monday    | 1300-1800 2000-2400 |   all day   | 1700-2300   | 10-1300 14-1800   | 1700-2200           |      depends        |
+| Tuesday   | 1300-1800 2000-2400 |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      depends        |
+| Wednesday | 1300-1800 2000-2400 |after 16:30  |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      depends        |
+| Thursday  | 1300-1800 2000-2400 |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      depends        |
+| Friday    | 08 - 1200 2000-2400 |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      depends        |
 
 ### How many hours everyone has per day:
 
-- name: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Axil: _9h_;
+- Daniel: _9h_;
+- Moamin: _6h_;
+- Laura: _6h_;
+- Senait: _5h_;
+- Tatsiana: _?_;
 
 ## Asking for Help
 
