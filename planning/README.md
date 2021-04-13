@@ -23,7 +23,6 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-<<<<<<< HEAD
 | Day       |    Axil             |    Daniel   |    Laura    |    Moamin         |        Senait       |        Tatsiana     |
 | --------- | :---------:         | :---------: | :---------: | :---------:       | :-----------------: | :-----------------: |
 | Monday    | 1300-1800 2000-2400 |   all day   | 1700-2300   | 10-1300 14-1800   | 1700-2200           |      15.00-19.00        |
