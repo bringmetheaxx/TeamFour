@@ -26,7 +26,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 <<<<<<< HEAD
 | Day       |    Axil             |    Daniel   |    Laura    |    Moamin         |        Senait       |        Tatsiana     |
 | --------- | :---------:         | :---------: | :---------: | :---------:       | :-----------------: | :-----------------: |
-| Monday    | 1300-1800 2000-2400 |   all day   | 1700-2300   | 10-1300 14-1800   | 1700-2200           |      depends        |
+| Monday    | 1300-1800 2000-2400 |   all day   | 1700-2300   | 10-1300 14-1800   | 1700-2200           |      15.00-19.00        |
 | Tuesday   | 1300-1800 2000-2400 |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      depends        |
 | Wednesday | 1300-1800 2000-2400 |after 16:30  |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      depends        |
 | Thursday  | 1300-1800 2000-2400 |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      depends        |
