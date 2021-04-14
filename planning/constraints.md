@@ -4,6 +4,9 @@ Some boundaries around our project.
 
 ## External
 
+
+- tight deadline
+- little experience with git & github
 <!--
   constraints coming from the outside that your team has no control over. these may include:
   - project deadlines
@@ -13,6 +16,8 @@ Some boundaries around our project.
 
 ## Internal: Involuntary
 
+- mixed availability
+- mixed skill levels
 <!--
   constraints that come from within your team, and you have no control over. they may include:
   - each of your individual skill levels
@@ -21,6 +26,8 @@ Some boundaries around our project.
 
 ## Internal: Voluntary
 
+- simplify the website
+- focus on teamwork
 <!--
   constraints that your team decided on to help scope the project. they may include:
   - coding style & conventions
