@@ -1,45 +1,39 @@
-> The headers in this document say what labels should be attached to a task issue.
 
-# All About Trees
+# Loruki
 
 > everything in this document should be under the `must-have` milestone
 
-A simple little website about trees.
+A responsive website for a cloud service
 
 ---
 
-## `for: site-title` (_label_)
+## `for: site-title` (_title_)
 
-> - the site title should be developed on a _feature branch_ named `site-title`.
-> - Each issue in this section should be developed on a branch of `site-title`, and merged with a PR.
-> - when all of the issues in this section have been merged to `site-title`, `site-title` can be merged to `master`
-
-### `type: html` (_label_)
-
-> all issues under this header will have `for: site-title` _and_ `type: html`
+- Title
+- Logo
+### `type: html` (_title_)
 
 - A website title for the tab (in the header of the document) (_issue_)
 - A title in the web page (_issue_)
-  - [ ] uses a class "centered" (_issue checklist_)
+- Logo
 
-### `type: css` (_label_)
-
-> all issues under this header will have `for: site-title` _and_ `type: css`
+### `type: css` (_title_)
 
 - "centered" class (_issue_)
   - [ ] centers an element horizontally along the page (_issue checklist_)
 
 ---
 
-## `for: introduction` (_label_)
+## `for: introduction` (_description_)
 
-### `type: html` (_label_)
+- Company description
 
-- A section with some fascinating words (_issue_)
-  - [ ] uses a "fascinating-words" class
-  - [ ] is a section element
 
-### `type: css` (_label_)
+### `type: html` (_description_)
+- text box
+  - the company description with some little story as background
+
+### `type: css` (_description_)
 
 - the "fascinating-words" class (_issue_)
 
