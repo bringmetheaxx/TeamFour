@@ -11,6 +11,6 @@ for software provider company.
 
 ---
 
-![wireframe](/Week1-wireframe.png)
+![wireframe](./Week1-wireframe.png)
 
 > [wireframe source](https://excalidraw.com/#json=4648515573645312,qW79XQ6mL7VXAF7qp0jJLQ)
