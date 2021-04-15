@@ -1,285 +1,89 @@
-* <!-- added by Daniel BEGIN --> */
-
-@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Electrolize&family=Lato:wght@300&display=swap');
-
-:root {
-  --primary-color: #047aed;
-  --secondary-color: #1c3fa8;
-  --dark-color: #002240;
-  --light-color: #f4f4f4;
-  --success-color: #5cb85c;
-  --error-color: #d9534f;
-}
-
-/* added by Daniel END */
-
-/* add by Áxil BEGIN */
-
-h1 {
-  color: #fff;
-  font-size: 50px;
-  font-family: 'Audiowide', cursive;
-  position: absolute;
-  right: 0px;
-}
-
-.navbar {
-  background-color: var(--primary-color);
-  color: #fff;
-  height: 70px;
-  font-size: 20px;
-  font-family: 'Electrolize', sans-serif;
-}
-
-.navbar ul {
-  display: flex;
-}
-
-.navbar a {
-  color: #fff;
-  padding: 10px;
-  margin: 0 5px;
-}
-
-.navbar a:hover {
-  border-bottom: 2px #fff solid;
-}
-
-.navbar .flex {
-  justify-content: space-between;
-}
-
-/*add by Áxil END*/ 
-
-/*added by Daniel BEGIN*/
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
-
-body {
-  font-family: 'Lato', sans-serif;
-  color: #333;
-  line-height: 1.6;
-}
-
-ul {
-  list-style-type: none;
-}
-
-a {
-  text-decoration: none;
-  color: #333;
-}
-
-h2,
-h3 {
-  font-weight: 300;
-  line-height: 1.2;
-  margin: 10px 0;
-}
-
-p {
-  margin: 10px 0;
-}
-
-img {
-  width: 100%;
-}
-
-code,
-pre {
-  background: #333;
-  color: #fff;
-  padding: 10px;
-}
-
-.hidden {
-  visibility: hidden;
-  height: 0;
-}
-
-/* Consultation Form */
-.showcase {
-  height: 400px;
-  background-color: var(--primary-color);
-  color: #fff;
-  position: relative;
-}
-
-.showcase h2 {
-  font-size: 40px;
-}
-
-.showcase p {
-  margin: 20px 0;
-}
-
-.showcase .grid {
-  overflow: visible;
-  grid-template-columns: 55% auto;
-  gap: 30px;
-}
-
-.showcase-text {
-  animation: slideInFromLeft 1s ease-in;
-}
-
-.showcase-form {
-  position: relative;
-  top: 60px;
-  height: 350px;
-  width: 400px;
-  padding: 40px;
-  z-index: 100;
-  justify-self: flex-end;
-  animation: slideInFromRight 1s ease-in;
-}
-
-.showcase-form .form-control {
-  margin: 30px 0;
-}
-
-.showcase-form input[type='text'],
-.showcase-form input[type='email'] {
-  border: 0;
-  border-bottom: 1px solid #b4becb;
-  width: 100%;
-  padding: 3px;
-  font-size: 16px;
-}
-
-.showcase-form input:focus {
-  outline: none;
-}
-
-.showcase::before,
-.showcase::after {
-  content: '';
-  position: absolute;
-  height: 100px;
-  bottom: -70px;
-  right: 0;
-  left: 0;
-  background: #fff;
-  transform: skewY(-3deg);
-  -webkit-transform: skewY(-3deg);
-  -moz-transform: skewY(-3deg);
-  -ms-transform: skewY(-3deg);
-}
-
-/* Animations */
-@keyframes slideInFromLeft {
-  0% {
-    transform: translateX(-100%);
-  }
-
-  100% {
-    transform: translateX(0);
-  }
-}
-
-@keyframes slideInFromRight {
-  0% {
-    transform: translateX(100%);
-  }
-
-  100% {
-    transform: translateX(0);
-  }
-}
-
-@keyframes slideInFromTop {
-  0% {
-    transform: translateY(-100%);
-  }
-
-  100% {
-    transform: translateX(0);
-  }
-}
-
-@keyframes slideInFromBottom {
-  0% {
-    transform: translateY(100%);
-  }
-
-  100% {
-    transform: translateX(0);
-  }
-}
-
-/* Tablets and under */
-@media (max-width: 768px) {
-  .grid,
-  .showcase .grid,
-  .stats .grid,
-  .cli .grid,
-  .cloud .grid,
-  .features-main .grid,
-  .docs-main .grid {
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
-  }
-
-  .showcase {
-    height: auto;
-  }
-
-  .showcase-text {
-    text-align: center;
-    margin-top: 40px;
-    animation: slideInFromTop 1s ease-in;
-  }
-
-  .showcase-form {
-    justify-self: center;
-    margin: auto;
-    animation: slideInFromBottom 1s ease-in;
-  }
-
-  .cli .grid > *:first-child {
-    grid-column: 1;
-    grid-row: 1;
-  }
-
-  .features-head,
-  .features-sub-head,
-  .docs-head {
-    text-align: center;
-  }
-
-  .features-head img,
-  .features-sub-head img,
-  .docs-head img {
-    justify-self: center;
-  }
-
-  .features-main .grid > *:first-child,
-  .features-main .grid > *:nth-child(2) {
-    grid-column: 1;
-  }
-}
-
-/* Mobile */
-@media (max-width: 500px) {
-  .navbar {
-    height: 110px;
-  }
-
-  .navbar .flex {
-    flex-direction: column;
-  }
-
-  .navbar ul {
-    padding: 10px;
-    background-color: rgba(0, 0, 0, 0.1);
-  }
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="css/utilities.css">
+    <link rel="stylesheet" href="css/styles.css" />
+    <!-- Add by Axil begin --> 
+    <title>cloud4 | storage 4 life</title>
+  </head>
+  <body>
+    <h1>cloud4</h1>
   
-  .showcase-form {
-    width: 300px;
-  }
-}
+  <div class="navbar">
+      <div class="container flex">
+          <nav>
+              <ul>
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="gallery.html">Gallery</a></li>
+                  <li><a href="contact.html">Contact Info</a></li>
+              </ul>
+          </nav>
+      </div>
+  </div>
+    <!-- Add by Áxil end-->
+    
+    <!-- Consultation form by Daniel BEGIN -->
+    <section class="showcase">
+      <div class="container grid">
+        <div class="showcase-text">
+          <h2>Better Consultation</h2>
+          <p>
+            Deploy web apps of all kinds, from large scale enterprise APIs to
+            static websites for individuals. Fill out the form to have a consultation
+            about our platform
+          </p>
+          <!-- <a href="features.html" class="btn btn-outline">=====></a> -->
+        </div>
 
-/* <!-- added by Daniel END --> */
+        <div class="showcase-form card">
+          <h3>Request a Consultation</h3>
+          <!--  <form name="contact" netlify-honeypot="bot-field" method="POST" data-netlify="true">
+              <input type="hidden" name="form-name" value="contact">
+              <p class="hidden">
+                  <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+                </p>
+              <div class="form-control">
+                  <input type="text" name="name" placeholder="Name" required>
+              </div>
+              <div class="form-control">
+                  <input type="text" name="company" placeholder="Company Name" required>
+              </div>
+              <div class="form-control">
+                  <input type="email" name="email" placeholder="Email" required>
+              </div>
+              <input type="submit" value="Send" class="btn btn-primary">
+          </form> -->
+          <form>
+            <div class="form-control">
+              <input type="text" name="name" placeholder="Name" required />
+            </div>
+            <div class="form-control">
+              <input
+                type="text"
+                name="company"
+                placeholder="Company Name"
+                required
+              />
+            </div>
+            <div class="form-control">
+              <input type="email" name="email" placeholder="Email" required />
+            </div>
+            <input type="submit" value="Send" class="btn btn-primary" />
+          </form>
+        </div>
+      </div>
+    </section>
+    <!-- Consultation form by Daniel END -->
+
+
+
+
+
+
+
+  </body>
+</html>
