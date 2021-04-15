@@ -58,7 +58,7 @@ The following tools were used in this project:
 ## Screenshoots
 ![img1](https://github.com/Senait-coding/TeamFour/blob/origin/master/img1.jpeg)
 ![Img2](https://github.com/Senait-coding/TeamFour/blob/origin/master/Web%20capture_15-4-2021_42659_zen-carson-c10c9f.netlify.app.jpeg)
-![img3](https://github.com/Senait-coding/TeamFour/blob/origin/master/img3.jpeg)
+![img3](https://github.com/Senait-coding/TeamFour/blob/origin/master/third%20page.jpeg)
 
 ## Contributors:
 * [Bringmetheaxx](https://github.com/bringmetheaxx)
