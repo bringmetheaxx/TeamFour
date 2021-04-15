@@ -1,111 +1,70 @@
-
 # Loruki
-
-> everything in this document should be under the `must-have` milestone
 
 A responsive website for a cloud service
 
----
+## Title
 
-## `for: site-title` (_title_)
+### HTML (_head_)
 
-- Title
-- Logo
-### `type: html` (_title_)
+    create index.html
+    A website title for the tab (in the header of the document)
+    add the Loruki Logo
+    create navbar
+    add link to firstp.css 
 
-- A website title for the tab (in the header of the document) (_issue_)
-- A title in the web page (_issue_)
-- Logo
+### CSS (_head_)
 
-### `type: css` (_title_)
+    create firstp.css
+    style the title
+    style the logo
+    style the navbar
 
-- "centered" class (_issue_)
-  - [ ] centers an element horizontally along the page (_issue checklist_)
+## Description
 
----
+### HTML (_description_)
 
-## `for: introduction` (_description_)
+    create text-box
+    - add text with company description/background 
 
-- Company description
+### CSS (_description_)
 
+    style text-box
+    style text
+    Add fonts
 
-### `type: html` (_description_)
-- text box
-  - the company description with some little story as background
+## Services
 
-### `type: css` (_description_)
+### HTML (_services_)
 
-- the "fascinating-words" class (_issue_)
+    create box
+    - add image or text with our services
 
----
+### CSS (_services_)
 
-## `for: main-text` (_label_)
+    style box 
+    style text or image
 
-### `type: html` (_label_)
+## Consultation
 
-- An article filled with wonder and interesting things (_issue_)
-  - [ ] uses and "interesting-things" class
+### HTML (_consultation_)
 
-### `type: css` (_label_)
+    create form
 
-- the "interesting-things" class (_issue_)
+### CSS (_consultation_)
 
----
+    style form 
 
-## `for: further-reading` (_label_)
+## Social section
 
-### `type: html` (_label_)
+### HTML  (_social_)
 
-- An aside with a little text and a link for further reading (_issue_)
-  - [ ] a link
-  - [ ] the "aside-info" class
-  - [ ] the "aside-text" class
+    create social links 
 
-### `type: css` (_label_)
+### CSS  (_social_)
 
-- "aside-info" class (_issue_)
-- "aside-text" class (_issue_)
+    style social links
 
----
-
-## `for: site-navigation` (_label_)
-
-### `type: html` (_label_)
-
-- A navbar of site content links, clearly divided from the rest of the page (_issue_)
-  - [ ] uses a "spaced-items" class
-  - [ ] uses a "bottom-divider" class
-- id's on all the site content containers (_issue_)
-  - [ ] "summary-info"
-  - [ ] "main-info"
-  - [ ] "extra-info"
-
-### `type: css` (_label_)
-
-- the "spaced-items" class (_issue_)
-- the "bottom-divider" class (_issue_)
-
----
-
-## `for: contact-info` (_label_)
-
-**As a site visitor, I want to know how I can contact the author so that I can make a new friend**
-
-### `type: html` (_label_)
-
-- A separated footer with some contact links (_issue_)
-  - [ ] uses the "spaced-items" class
-  - [ ] uses the "top-divider" class
-
-### `type: css` (_label_)
-
-- the "top-divider" class (_issue_)
-
----
-
-## `for: finishing-touches` (_label_)
-
-**As a perfectionist, I want everything perfect :)**
+## finishing-touches
 
 - Write final, complete README:
   - [makeareadme.com](https://www.makeareadme.com/)
