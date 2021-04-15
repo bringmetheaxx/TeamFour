@@ -1,4 +1,4 @@
-# Team4 Web Storage
+# cloud4 Web Storage
 
 A cloud service 4 everyone
 
