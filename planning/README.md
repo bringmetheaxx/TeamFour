@@ -14,11 +14,11 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day       |    Axil             |    Daniel   |    Laura    |    Moamin         |        Senait       |        Tatsiana     |
 | --------- | :---------:         | :---------: | :---------: | :---------:       | :-----------------: | :-----------------: |
-| Monday    | 1300-1800 2000-2400 |   all day   | 1700-2300   | 10-1300 14-1800   | 1700-2200           |      15.00-19.00        |
-| Tuesday   | 1300-1800 2000-2400 |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      13.00-20.00        |
-| Wednesday | 1300-1800 2000-2400 |after 16:30  |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      13.00-00.00        |
+| Monday    | 1300-1800 2000-2400 |   all day   | 1700-2300   | 10-1300 14-1800   | 1700-2200           |      15.00-19.00    |
+| Tuesday   | 1300-1800 2000-2400 |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      13.00-20.00    |
+| Wednesday | 1300-1800 2000-2400 |after 16:30  |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      13.00-00.00    |
 | Thursday  | 1300-1800 2000-2400 |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      All day        |
-| Friday    | 08 - 1200 2000-2400 |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      All day        |
+| Friday    | 0800-1200 2000-2400 |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      All day        |
 
 ### How many hours everyone has per day:
 
@@ -27,7 +27,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Moamin: _6h_;
 - Laura: _6h_;
 - Senait: _5h_;
-- Tatsiana: _?_;
+- Tatsiana: _4h_;
 
 ## Asking for Help
 
