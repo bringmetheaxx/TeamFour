@@ -1,6 +1,6 @@
-# Loruki
+# Team4 Web Storage
 
-A responsive website for a cloud service
+A cloud service 4 everyone
 
 ## Title
 
@@ -8,7 +8,7 @@ A responsive website for a cloud service
 
     create index.html
     A website title for the tab (in the header of the document)
-    add the Loruki Logo
+    add the TeamFour Logo
     create navbar
     add link to firstp.css 
 
