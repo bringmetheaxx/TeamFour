@@ -27,7 +27,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Moamin: _6h_;
 - Laura: _6h_;
 - Senait: _5h_;
-- Tatsiana: _4h_;
+- Tatsiana: _6h_;
 
 ## Asking for Help
 
