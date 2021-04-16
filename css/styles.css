@@ -316,6 +316,11 @@ pre {
 /* <!-- added by Daniel END --> */
 /* added by Momain, ourservice part */
 
+/* Description Tatsiana */
+.cloud .grid {
+  grid-template-columns: 4fr 3fr;
+}
+
 .stats {
   padding-top: 100px;
   animation: slideInFromBottom 1s ease-in;
