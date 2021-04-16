@@ -10,7 +10,7 @@ for software provider company.
 * Contact and follow the company's social media accounts
 
 ---
+Here it is the wireframe of the 3 pages 
+![wireframe](./Week1-wireframe1.png)
 
-![wireframe](./Week1-wireframe.png)
-
-> [wireframe source](https://excalidraw.com/#json=4648515573645312,qW79XQ6mL7VXAF7qp0jJLQ)
+> [wireframe source](https://excalidraw.com/#json=6033609710370816,xsFYjPLvnX8hR7vDwGgSGw)
